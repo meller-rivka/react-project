@@ -1,5 +1,6 @@
 # React + Vite
 To view the project in the cloud: http://rivki-react-app.s3-website-us-east-1.amazonaws.com/
+
 Develop a React website for small business management with separate screens for owners and customers.
 **Screens:**
 1. **Business Owner:**
