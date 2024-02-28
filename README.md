@@ -1,8 +1,23 @@
 # React + Vite
+To view the project in the cloud: http://rivki-react-app.s3-website-us-east-1.amazonaws.com/
+Develop a React website for small business management with separate screens for owners and customers.
+**Screens:**
+1. **Business Owner:**
+   - Log in, view business details, and services.
+   - Add services and check scheduled appointments.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. **Customers:**
+   - View services and schedule appointments.
 
-Currently, two official plugins are available:
+**Tech Stack:**
+- React Router, Mobx (global state), Fetch/Axios (API), Material-UI (design).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**GitHub Repo:**
+[reactProjectServer](https://github.com/nechamaLearn/reactProjectServer)
+
+**Focus:**
+- Component structure.
+- React hooks, Mobx for state.
+- React Router, Fetch/Axios for data.
+- Material-UI for design.
+- Clean JavaScript coding.
